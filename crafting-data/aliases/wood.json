@@ -1,0 +1,16 @@
+{
+  "displayName": "Wood",
+  "gameVersion": "*",
+  "craftingID": "aliases.wood",
+  "alias": true,
+  "ressource": true,
+  "containedItems":
+  [
+    "minecraft.log",
+    "minecraft.log:1"
+    "minecraft.log:2"
+    "minecraft.log:3"
+    "minecraft.log2:1"
+    "minecraft.log2:2"
+  ]
+}

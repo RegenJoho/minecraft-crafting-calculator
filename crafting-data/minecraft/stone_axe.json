@@ -1,0 +1,17 @@
+{
+  "ingameID": "minecraft:stone_axe",
+  "displayName": "Stone Axe",
+  "gameVersion": "*",
+  "craftingID": "minecraft.stone_axe",
+  "ressource": false,
+  "alias": false,
+  "recepies":
+    [
+      [
+        ["none","minecraft.cobblestone","minecraft.cobblestone"],
+        ["none", "minecraft.stick", "minecraft.cobblestone"],
+        ["none", "minecraft.stick", "none"],
+        ["1"]
+      ]
+    ]
+}
